@@ -1,4 +1,4 @@
-clone this repo using
+# clone this repo using
 $ git clone https://github.com/chayanbajaj/NFTMarketplace.git
 
 $ cd NFTMarketplace
